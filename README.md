@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Lakshya Arora!
+
+
+
+---
+
+### 🚀 About Me
+
 * 🎓 B.Tech in Computer Science Engineering (Data Science) at Manipal Institute of Technology, Bengaluru.<br>* 🤖 Passionate and learning about Artificial Intelligence, Machine Learning, Backend Engineering, and Computer Vision.<br>* 🔭 Currently building InternRadar, and Raspberry Pi Real-Time Object Detection & Tracking.<br>* 🌱 Exploring Agentic AI, RAG, LangGraph, Spring AI, System Design, and Cloud Computing.<br>* 💡 Interested in creating scalable AI solutions that solve real-world problems.<br>* 🤝 Open to collaborating on AI/ML, Backend Systems, Open Source, and Hackathon Projects.<br>* 💬 Ask me about Python, Java, FastAPI, Spring Boot, OpenCV, Data Science, SQL, Machine Learning, and Git.<br>* 🎯 Aspiring to become an AI Engineer building intelligent, scalable, and impactful software.<br>* ⚡ Fun Fact: I believe the best way to learn is by building—every new concept I study becomes a real project.<br>
 
 
