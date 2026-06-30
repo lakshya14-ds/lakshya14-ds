@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Lakshya Arora!
 
 
-
 ---
 
 ### 🚀 About Me
