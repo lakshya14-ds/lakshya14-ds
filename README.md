@@ -1,32 +1,68 @@
-# 👋 Hi there, I'm Lakshya Arora!
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=lakshya14-ds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205181922%3Fu%3Dc6e7da8912149740cdc08fe26f517b2e9f2f72ef%26v%3D4" alt="lakshya14-ds hero visual" />
+</p>
 
----
+<p align="center"><b>Lakshya Arora</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-### 🚀 About Me
+<p align="center"><a href="https://github.com/lakshya14-ds">GitHub</a></p>
 
-* 🎓 B.Tech in Computer Science Engineering (Data Science) at Manipal Institute of Technology, Bengaluru.<br>* 🤖 Passionate and learning about Artificial Intelligence, Machine Learning, Backend Engineering, and Computer Vision.<br>* 🔭 Currently building InternRadar, and Raspberry Pi Real-Time Object Detection & Tracking.<br>* 🌱 Exploring Agentic AI, RAG, LangGraph, Spring AI, System Design, and Cloud Computing.<br>* 💡 Interested in creating scalable AI solutions that solve real-world problems.<br>* 🤝 Open to collaborating on AI/ML, Backend Systems, Open Source, and Hackathon Projects.<br>* 💬 Ask me about Python, Java, FastAPI, Spring Boot, OpenCV, Data Science, SQL, Machine Learning, and Git.<br>* 🎯 Aspiring to become an AI Engineer building intelligent, scalable, and impactful software.<br>* ⚡ Fun Fact: I believe the best way to learn is by building—every new concept I study becomes a real project.<br>
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=lakshya14-ds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205181922%3Fu%3Dc6e7da8912149740cdc08fe26f517b2e9f2f72ef%26v%3D4" alt="lakshya14-ds projects visual" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshya_arora14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshya-arora-8520ba341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:LAKSHYA123CMS@GMAIL.COM) 
+- [codsoft_task5](https://github.com/lakshya14-ds/codsoft_task5) · ★ 0
+- [smart-crop-advisiory-system](https://github.com/lakshya14-ds/smart-crop-advisiory-system) · ★ 0
+- [Student_Performance-Prediction](https://github.com/lakshya14-ds/Student_Performance-Prediction) · ★ 0
+- [uplift-modeling-benchmark-main](https://github.com/lakshya14-ds/uplift-modeling-benchmark-main) · ★ 0
+- [civicpilot](https://github.com/lakshya14-ds/civicpilot) · ★ 0 — CivicPilot: AI-powered civic complaint management and triage platform
+- [RegIntel-Rag](https://github.com/lakshya14-ds/RegIntel-Rag) · ★ 0
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lakshya14-ds&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lakshya14-ds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshya14-ds&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</details>
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakshya14-ds&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=lakshya14-ds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205181922%3Fu%3Dc6e7da8912149740cdc08fe26f517b2e9f2f72ef%26v%3D4" alt="lakshya14-ds stack visual" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lakshya14-ds&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
----
-[![](https://komarev.com/ghpvc/?username=lakshya14-ds&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
+<b>15</b> public repositories, <b>0</b> stars, <b>289</b> contributions in the last year, a longest streak of <b>25</b> days and <b>6</b> followers.
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=lakshya14-ds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205181922%3Fu%3Dc6e7da8912149740cdc08fe26f517b2e9f2f72ef%26v%3D4" alt="lakshya14-ds stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=lakshya14-ds&theme=neon" alt="lakshya14-ds contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=lakshya14-ds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205181922%3Fu%3Dc6e7da8912149740cdc08fe26f517b2e9f2f72ef%26v%3D4" alt="lakshya14-ds social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Lakshya Arora · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
